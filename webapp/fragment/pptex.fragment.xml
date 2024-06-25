@@ -1,0 +1,12 @@
+<core:FragmentDefinition
+	xmlns="sap.m" xmlns:l="sap.ui.layout"
+	xmlns:f="sap.ui.layout.form"
+	xmlns:core="sap.ui.core"
+>
+        <Dialog title="Hello Dialog">
+        <content>
+            <Text text="This is a sample dialog." />
+            <Button text="Close" press="sapsucker" />
+        </content>
+    </Dialog>
+</core:FragmentDefinition>
